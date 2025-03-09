@@ -1,6 +1,8 @@
 ## Hi there 👋
 [![Tip in Crypto](https://7326a4b7-3268-4a75-9001-f3cfcfddfba9-00-rctxqey0ksew.spock.replit.dev/badge.svg)](https://7326a4b7-3268-4a75-9001-f3cfcfddfba9-00-rctxqey0ksew.spock.replit.dev/xr0a )
+9F3hTw8nKjNtDdPZfpBTV7gQ97WzPStDThuuCurT9fZu
 <!--
+
 **xR0am/xR0am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
