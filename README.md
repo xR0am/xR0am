@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/xR0am)
+Currently working on shipping tip.md, the first crypto tipping button, enabling developers to get supported frictionlessly.
+
+This is how it looks: [![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/xR0am)
 <!--
 
 **xR0am/xR0am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
