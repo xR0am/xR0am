@@ -1,9 +1,9 @@
 ## Hi there 👋
-- 🔭 Currently working on promoting tip.md, the first crypto tipping button, enabling developers to get supported frictionlessly.
+> 🔭 Currently working on promoting tip.md, the first crypto tipping button, enabling developers to get supported frictionlessly.<br>This is how it looks 👇🏼
+___
 
 <div align="center">
-  <p>This is how it looks</p>
-  <a href="https://tip.md/tipdotmd">
+  <a href="https://tip.md/tipdotmd" class="tip-button" target="_blank" rel="noopener noreferrer">
     <img src="https://tip.md/badge.svg" alt="Tip in Crypto" width="150">
   </a>
   <h3>The crypto bridge for open-source rewards</h3>
