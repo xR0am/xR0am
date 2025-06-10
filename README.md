@@ -1,4 +1,18 @@
-## Hi there 👋
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-10T07:28:10.695Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0xa8f527A9B1609D077dA4DAD4Bc739c87AE8D7f8B"
+    },
+    {
+      "chain": "solana",
+      "address": "6T4YFbSgKP81FJeAEfU6gTVc4qKgcr6bQYfUkxwbFaZq"
+    }
+  ]
+}
+WALLET-LINKING-END -->## Hi there 👋
 > 🔭 Currently working on promoting tip.md, the first crypto tipping button, enabling developers to get supported frictionlessly.<br>This is how it looks 👇🏼
 ___
 
