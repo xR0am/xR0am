@@ -12,7 +12,10 @@
     }
   ]
 }
-WALLET-LINKING-END -->## Hi there 👋
+WALLET-LINKING-END -->
+
+## Hi there 👋
+
 > 🔭 Currently working on promoting tip.md, the first crypto tipping button, enabling developers to get supported frictionlessly.<br>This is how it looks 👇🏼
 ___
 
