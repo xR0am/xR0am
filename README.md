@@ -26,6 +26,6 @@ ___
   <h3>The crypto bridge for open-source rewards</h3>
   <p>A simple way to receive cryptocurrency tips through your GitHub README</p>
 </div>
-<!--
+
 
 ![My GitHub Game](game.gif)
